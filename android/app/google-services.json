@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748484323901",
+    "project_id": "funphaluay",
+    "storage_bucket": "funphaluay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748484323901:android:b100770aac5c519eb45854",
+        "android_client_info": {
+          "package_name": "com.example.testproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEyXATgoPY4_IwV49MMtJZ7YBSEh0mNjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748484323901:android:fa285e6498b7d2fbb45854",
+        "android_client_info": {
+          "package_name": "com.funphaluay.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEyXATgoPY4_IwV49MMtJZ7YBSEh0mNjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
